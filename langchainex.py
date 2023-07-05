@@ -2,7 +2,7 @@ import langchain
 from langchain.llms import OpenAI
 
 
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="sk-"
  
 
 llm = OpenAI(openai_api_key=OPENAI_API_KEY)
